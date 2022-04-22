@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi, I'm Andy Caseres! :stars:</h1>
-<p align="center">  Front End Junior <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></p>
+<h3 align="center">  Front End Junior <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 
 ## About Me :wave:
 
