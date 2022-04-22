@@ -3,7 +3,7 @@
 </p>
 
 
-### Hi there 👋 I'm [Andy Caseres]
+### Hi there 👋 I'm Andy Caseres
 > Front End Junior
 
 ```javascript
@@ -15,9 +15,10 @@ const Andy = {
   Con ganas de poder brindar mis conocimientos en un entorno laboral, 
   y poder desarrollarme en un equipo.
 
-  [https://andy-caseres.vercel.app](https://andy-caseres.vercel.app)
+ "https://andy-caseres.vercel.app"
 }
-```
+``` ⭐️ Portafolio [https://andy-caseres.vercel.app](https://andy-caseres.vercel.app)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 
