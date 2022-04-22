@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width"100px"/>
-</p>
-
 
 <h1 align="center">Hi, I'm Andy Caseres! :stars:</h1>
 <h3 align="center">  Front End Junior <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
