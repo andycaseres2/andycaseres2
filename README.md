@@ -3,8 +3,10 @@
 </p>
 
 
-### Hi there 👋 I'm Andy Caseres
+<h1 align="center">Hi, I'm Andy Caseres! :stars:</h1>
 > Front End Junior
+
+## About Me :wave:
 
 ```javascript
 const Andy = {
