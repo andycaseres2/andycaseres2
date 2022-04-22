@@ -26,14 +26,12 @@ const Andy = {
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-<p align="center">
-<a href="https://github.com/priyanshumay">
+
+
+<p>
+  <a href="https://github.com/priyanshumay">
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
 </a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
-</p><br>
-
-<p align="center">
 <a href="https://github.com/priyanshumay">
 <img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
 </a>
