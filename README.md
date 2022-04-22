@@ -11,7 +11,7 @@ const Andy = {
   Con ganas de poder brindar mis conocimientos en un entorno laboral, 
   y poder desarrollarme en un equipo.
 
-  https://andy-caseres.vercel.app
+  <a href="https://andy-caseres.vercel.app" target="__blank">https://andy-caseres.vercel.apphttps://andy-caseres.vercel.app </a>
 }
 ```
 <h3 align="center"> Other Accounts 📫 </h3>
