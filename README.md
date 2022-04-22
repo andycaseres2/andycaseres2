@@ -2,6 +2,10 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
+
+### Hi there 👋 I'm [Andy Caseres]
+> Front End Junior
+
 ```javascript
 const Andy = {
 🖥️ Soy un desarrollador web autodidacta orientado al Front-End.
@@ -11,7 +15,7 @@ const Andy = {
   Con ganas de poder brindar mis conocimientos en un entorno laboral, 
   y poder desarrollarme en un equipo.
 
-  <a href="https://andy-caseres.vercel.app" target="__blank">https://andy-caseres.vercel.apphttps://andy-caseres.vercel.app </a>
+  https://andy-caseres.vercel.app
 }
 ```
 <h3> 🛠 &nbsp;Tech Stack</h3>
