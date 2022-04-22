@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi, I'm Andy Caseres! :stars: > Front End Junior </h1>
+<h1 align="center">Hi, I'm Andy Caseres! :stars:</h1> <h3><Front End Junior/></h3>
 
 
 ## About Me :wave:
