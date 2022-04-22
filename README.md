@@ -4,21 +4,12 @@
 
 ```javascript
 const Andy = {
-  🖥️ Soy un desarrollador web autodidacta orientado al Front-End.
+🖥️ Soy un desarrollador web autodidacta orientado al Front-End.
 
 🔎 Actualmente me encuentro en búsquedas de posiciones Front End Junior
 ⚡ Me caracterizo por ser una persona dedicada, proactiva, responsable y sólida para cumplir objetivos. Con ganas de poder brindar mis conocimientos en un entorno laboral, y poder desarrollarme en un equipo.
 
-https://andy-caseres.vercel.apppronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+https://andy-caseres.vercel.app
 }
 ```
 ## Tech Stack :computer:
