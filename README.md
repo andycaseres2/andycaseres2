@@ -22,13 +22,24 @@ const Andy = {
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
+<p align="center">
+<a href="https://github.com/priyanshumay">
+<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
+</a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
+</p><br>
 
+<p align="center">
+<a href="https://github.com/priyanshumay">
+<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
+</a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
+</p><br>
 
   
   <h3 align="center"> Other Accounts 📫 </h3>
