@@ -8,8 +8,8 @@
 
 ```javascript
 const Andy = {
-🖥️ Soy un desarrollador web autodidacta orientado al Front-End.
-🔎 Actualmente me encuentro en búsquedas de posiciones Front End Junior
+🖥️ Soy un desarrollador web autodidacta orientado al Frontend.
+🔎 Actualmente me encuentro en búsquedas de posiciones Frontend Junior
 ⚡ Me caracterizo por ser una persona dedicada, proactiva,
   responsable y sólida para cumplir objetivos. 
   Con ganas de poder brindar mis conocimientos en un entorno laboral, 
