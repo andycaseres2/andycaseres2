@@ -9,10 +9,11 @@
 ```javascript
 const Andy = {
 🖥️ Soy un desarrollador web autodidacta orientado al Frontend.
-🔎 Actualmente me encuentro en búsquedas de posiciones Frontend Junior
+🔎 Actualmente tengo conocimientos en Frontend Junior y estudiando
+  algunas cosas de Backend para lograr ser un desarrollador con el Stack MERN 
 ⚡ Me caracterizo por ser una persona dedicada, proactiva,
   responsable y sólida para cumplir objetivos. 
-  Con ganas de poder brindar mis conocimientos en un entorno laboral, 
+  Con ganas de aprender y poder brindar mis conocimientos en un entorno laboral, 
   y poder desarrollarme en un equipo.
 }
 ``` 
