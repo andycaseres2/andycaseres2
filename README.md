@@ -8,13 +8,12 @@
 
 ```javascript
 const Andy = {
-🖥️ Soy un desarrollador web autodidacta orientado al Frontend.
-🔎 Actualmente tengo conocimientos en Frontend Junior y estudiando
-  algunas cosas de Backend para lograr ser un desarrollador con el Stack MERN 
-⚡ Me caracterizo por ser una persona dedicada, proactiva,
-  responsable y sólida para cumplir objetivos. 
-  Con ganas de aprender y poder brindar mis conocimientos en un entorno laboral, 
-  y poder desarrollarme en un equipo.
+🖥️ Soy un Desarrollador Web Autodidacta orientado al Frontend.
+🔎 Actualmente tengo conocimientos en Frontend y Estudiando
+  algunas Tecnologias Backend para lograr ser un Desarrollador con el Stack MERN 
+⚡ Me caracterizo por ser una persona Dedicada, Proactiva,
+  Responsable, Con ganas de Aprender y poder brindar mis conocimientos
+  en un entorno laboral y poder desarrollarme en un Equipo.
 }
 ``` 
 ⭐️ Portafolio [Andy Caseres](https://andydev.vercel.app/)
