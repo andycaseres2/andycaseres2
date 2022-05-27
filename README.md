@@ -16,7 +16,7 @@ const Andy = {
   y poder desarrollarme en un equipo.
 }
 ``` 
-⭐️ Portafolio [https://andy-caseres.vercel.app](https://andydev.vercel.app/)
+⭐️ Portafolio [Andy Caseres](https://andydev.vercel.app/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
