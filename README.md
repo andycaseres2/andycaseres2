@@ -1,10 +1,10 @@
-<h2 align="center">👋 Hello! I'm Andy Caseres.</h2>
+<h2 align="center">👋 Hello! I'm [Andy Caseres](https://abhishknads.me/).</h2>
 
 #### I'm a Front-end Developer working in Bogota, Colombia.
 
 <br />
 
-Hi, I'm [Andy Caseres](https://abhishknads.me/), Front-end developer, worked on different applications using technologies such as JavaScript, React, Redux, TailwindCss.
+I'm Front-end developer, worked on different applications using technologies such as JavaScript, React, Redux, TailwindCss.
 
 I am very constant and passionate, which always helps me to go all the way in the things I do. Thanks to this, he learned to pay attention to the needs to develop in the most efficient and useful way.
 
@@ -14,7 +14,7 @@ I love working with React.js on projects that challenge me to continue exploring
 
 ### languages and tools:
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>  <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>  <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png' width='30'/>   <img src = 'https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png' width='33'/>
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>  <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png' width='30'/>   <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png' width='33'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>  <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png' width='30'/>
 
 ***Where to find me***
 <p>
