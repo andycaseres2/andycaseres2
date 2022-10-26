@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm [Andy Caseres](https://abhishknads.me/).</h2>
+👋 Hello! I'm [Andy Caseres](https://abhishknads.me/).
 
 #### I'm a Front-end Developer working in Bogota, Colombia.
 
