@@ -1,6 +1,6 @@
 ### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://andy-w-caseres-f.vercel.app/" />
+<a href="https://www.linkedin.com/in/andy-caseres/">
+  <img align="left" alt="Andy Caseres" width="22px" src="https://andy-w-caseres-f.vercel.app/" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
