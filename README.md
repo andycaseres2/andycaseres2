@@ -6,15 +6,15 @@
 
 <br />
 
-hi, i'm [Andy Caseres](https://abhishknads.me/), Desarrollador Front-end, he trabajado en distintas aplicaciones usando tecnologías como JavaScript, React, Redux, TailwindCss.
+Hi, I'm [Andy Caseres](https://abhishknads.me/), Front-end developer, worked on different applications using technologies such as JavaScript, React, Redux, TailwindCss.
 
-Soy muy constante y apasionado, lo cual siempre me ayuda a llegar hasta el final en las cosas que hago. Gracias a esto he aprendido a prestar atención a las necesidades para desarrollar de la manera más eficiente y útil.
+I am very constant and passionate, which always helps me to go all the way in the things I do. Thanks to this, he learned to pay attention to the needs to develop in the most efficient and useful way.
 
-Me encanta trabajar con React.js en proyectos que me desafíen a seguir explorando todas las posibilidades de este gran framework. Del mismo modo me encantaría seguir aprendiendo nuevas tecnologías que me ayuden a mejorar como profesional.
+I love working with React.js on projects that challenge me to continue exploring all the possibilities of this great framework. In the same way, I would love to continue learning new technologies that will help me improve as a professional.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-####languages and tools: ####
+***languages and tools:***
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -22,7 +22,7 @@ Me encanta trabajar con React.js en proyectos que me desafíen a seguir exploran
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<h3>Where to find me</h3>
+***Where to find me***
 <p>
   <a href="https://github.com/andycaseres2" target="__blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/AndyCaseresDev" target="__blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
