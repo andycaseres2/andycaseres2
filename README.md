@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/rH0HmVd" width"100px"/>
+  <img src="[https://ibb.co/rH0HmVd](https://i.ibb.co/L1R183N/banner-andy-Code.png)" width"100px"/>
 </p>
 <h1 align="center">Hi, I'm Andy Caseres! :stars:</h1>
 <h3 align="center">  FrontEnd Developer Junior <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
