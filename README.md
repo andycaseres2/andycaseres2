@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Andy Caseres.</h2>
 
 #### I'm a Front-end Developer working in Bogota, Colombia.
 
