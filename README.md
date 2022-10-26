@@ -1,4 +1,7 @@
-### hey there 
+### Hi there 👋
+
+#### I'm a Front-end Developer working in Bogota, Colombia.
+
 <a href="https://twitter.com/AndyCaseresDev">
   <img align="left" alt="Andy Caseres | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
