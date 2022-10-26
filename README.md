@@ -2,8 +2,6 @@
 
 #### I'm a Front-end Developer working in Bogota, Colombia.
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, I'm [Andy Caseres](https://abhishknads.me/), Front-end developer, worked on different applications using technologies such as JavaScript, React, Redux, TailwindCss.
