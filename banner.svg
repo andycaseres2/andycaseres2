@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Andy Caseres — Software Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#121110"/>
+      <stop offset="1" stop-color="#1C1A18"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D4AF6A" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#D4AF6A"/>
+      <stop offset="1" stop-color="#D4AF6A" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F3EFE7" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <style>
+      .name{font:700 64px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F3EFE7;letter-spacing:-1px}
+      .role{font:500 22px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#D4AF6A;letter-spacing:.5px}
+      .mono{font:400 17px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#8B8378}
+      .prompt{fill:#D4AF6A}
+      .tag{font:600 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#F3EFE7;letter-spacing:1px}
+      .cursor{fill:#D4AF6A;animation:blink 1.1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect x="0" y="296" width="1200" height="4" fill="url(#gold)"/>
+
+  <rect x="80" y="70" width="4" height="150" fill="#D4AF6A"/>
+
+  <text x="110" y="128" class="name">Andy Caseres</text>
+  <text x="112" y="166" class="role">SOFTWARE DEVELOPER · WEB · MOBILE · BACKEND</text>
+
+  <text x="112" y="214" class="mono"><tspan class="prompt">❯</tspan> construyendo productos de punta a punta con IA aplicada<tspan class="cursor"> ▍</tspan></text>
+
+  <g transform="translate(900,92)">
+    <rect width="220" height="34" rx="6" fill="none" stroke="#D4AF6A" stroke-opacity=".55"/>
+    <text x="110" y="22" text-anchor="middle" class="tag">AI-FIRST</text>
+    <rect y="46" width="220" height="34" rx="6" fill="none" stroke="#D4AF6A" stroke-opacity=".55"/>
+    <text x="110" y="68" text-anchor="middle" class="tag">CLEAN ARCHITECTURE</text>
+    <rect y="92" width="220" height="34" rx="6" fill="none" stroke="#D4AF6A" stroke-opacity=".55"/>
+    <text x="110" y="114" text-anchor="middle" class="tag">BOGOTÁ · REMOTO</text>
+  </g>
+</svg>

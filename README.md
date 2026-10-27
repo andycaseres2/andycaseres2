@@ -1,25 +1,50 @@
-👋 Hello! I'm [Andy Caseres](https://abhishknads.me/).
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Andy Caseres — Software Developer" />
+</p>
 
-#### I'm a Front-end Developer working in Bogota, Colombia.
+<p align="center">
+  <a href="https://www.linkedin.com/in/andy-caseres/">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@andycaseresdev">YouTube</a> ·
+  <a href="https://www.tiktok.com/@andycaseresdev">TikTok</a> ·
+  <a href="https://www.instagram.com/andycaseresdev">Instagram</a> ·
+  <a href="https://beacons.ai/andycaseres">Todos mis links</a> ·
+  <a href="mailto:andycaseres2@gmail.com">andycaseres2@gmail.com</a>
+</p>
 
 <br />
 
-I'm Front-end developer, worked on different applications using technologies such as JavaScript, React, Redux, TailwindCss.
+```ts
+const andy = {
+  rol: "Software Developer",
+  ubicacion: "Bogotá, Colombia · remoto",
+  experiencia: "+4 años construyendo productos de punta a punta",
+  enfoque: ["Web", "Móvil", "Backend", "IA aplicada"],
+  arquitectura: "Clean Architecture en frontend y backend",
+  formaDeTrabajo: "AI-first: agentes, specs y automatización a diario",
+  contenido: "@andycaseresdev — IA y programación en español",
+};
+```
 
-I am very constant and passionate, which always helps me to go all the way in the things I do. Thanks to this, he learned to pay attention to the needs to develop in the most efficient and useful way.
+## Lo que hago
 
-I love working with React.js on projects that challenge me to continue exploring all the possibilities of this great framework. In the same way, I would love to continue learning new technologies that will help me improve as a professional.
+- **Backend y plataformas web** con Node.js, NestJS y Express para productos en producción en distintos sectores: APIs REST, modelos de datos, autenticación con SSO corporativo (Active Directory) y despliegues en AWS con CI/CD.
+- **Frontends escalables** con React, Next.js, Vue y Astro, desacoplando la lógica de negocio con Clean Architecture.
+- **Apps móviles** con React Native y Flutter, con persistencia local y consumo de APIs.
+- **IA en producción**: bots que agilizan procesos de financiación, chatbots para WhatsApp y Telegram, agentes y automatizaciones con LLMs.
+- **Comunidad**: charlas sobre desarrollo con Astro y buenas prácticas en React.js, y contenido técnico en español.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+## Proyectos destacados
 
-### languages and tools:
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>  <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png' width='30'/>   <img src = 'https://media.graphassets.com/VKHHNvEETYqZRkqgjybc' width='33'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>  <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png' width='30'/>
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**Canonix**](https://github.com/andycaseres2/canonix) | Rutas de lectura de cómics y mangas con login y progreso por usuario | Astro · Supabase · Vercel |
+| [**Cúmulo**](https://github.com/andycaseres2/cumulo) | Plataforma para preparar la certificación AWS Cloud Practitioner con retos prácticos | TypeScript · AWS |
+| [**Tech Agents**](https://github.com/andycaseres2/Tech-agents) | Sistema multi-agente que detecta tendencias tech, genera guiones y envía resúmenes por Telegram | Next.js · Python · LLMs |
 
-***Where to find me***
+## Stack
+
 <p>
-  <a href="https://github.com/andycaseres2" target="__blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/AndyCaseresDev" target="__blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/andy-caseres/" target="__blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,astro,tailwind,nodejs,nestjs,express,python,postgres,mysql,supabase,flutter,aws,docker,vercel,git&theme=dark&perline=9" alt="Stack" />
 </p>
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
+
+<p align="right"><sub>¿Proyecto, oportunidad o colaboración? → <a href="mailto:andycaseres2@gmail.com">andycaseres2@gmail.com</a></sub></p>
